@@ -1,4 +1,4 @@
 # Names:
 
 1. Ranjana Kambhammettu
-2. ABC XYZ
+2. XYZ ABC
